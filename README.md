@@ -1,2 +1,2 @@
-# Exploring-Various-LLM-Model
+# Exploring-Various-LLM-Models
 Exploring Various LLM Model
